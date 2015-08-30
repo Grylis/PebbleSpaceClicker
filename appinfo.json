@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ganeshu50@gmail.com",
+    "longName": "Space Clicker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/click.png",
+                "name": "IMAGE_COOKIE_CLICKER",
+                "type": "png"
+            },
+            {
+                "file": "images/click copy.png",
+                "name": "COOKIE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Space Clicker",
+    "uuid": "9315ffb2-1cf3-4d9a-a99e-a4bfdaa3070e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
